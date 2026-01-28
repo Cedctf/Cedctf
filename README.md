@@ -1,16 +1,68 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Cedctf/Cedctf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=180&section=header&text=Hi%20there!%20I'm%20Cedric%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00D4FF&center=true&vCenter=true&width=520&lines=Computer+Science+Graduate+%F0%9F%8E%93;Building+cool+things+with+code+%F0%9F%9A%80;Always+learning+%26+shipping+%E2%9C%A8" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/cedric-chung-2756b4310/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:cedricctf11a@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## ✨ About me
+- 🎯 Currently: **Final Year CS Student** focusing on **AI-driven Blockchain solutions** and scalable **Full-Stack applications**.
+- 💡 Interests: **Web3 Architecture / Generative AI / DeFi Protocol Design / System Security**
+- 🌱 Learning: **Advanced Smart Contract Optimization (Solidity/Sui Move) & LLM Orchestration**
+- ⚡ Fun fact: **I’ve spent more time in hackathons than in some of my actual lecture halls!** 🚀
+
+---
+
+## 🧰 Tech Stack
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,html,css,tailwind,git,github,linux,docker,mysql,mongodb,vercel&perline=9" />
+
+</div>
+
+---
+
+## 🏆 Hackathon Achievements
+
+| Hackathon | Achievement | What I Built | Links |
+|---:|---|---|---|
+| **ETHGlobal Agentic Ethereum 2025** | 🥈 2nd in Flow Track | **4AI 1Human** |  [Repo](https://github.com/Cedctf/agentic) |
+| **PayHack2024** | 🥉 3rd Place | **Finpet** |  [Repo](https://github.com/Cedctf/payhack) |
+
+---
+
+## 📈 GitHub Stats
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cedctf&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cedctf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Cedctf/Cedctf/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 🤝 Let’s connect
+- 💼 LinkedIn: [linkedin.com/in/cedric-chung-2756b4310](https://www.linkedin.com/in/cedric-chung-2756b4310/)
+- 📫 Email: cedricctf11a@gmail.com
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7F00FF&height=120&section=footer" />
+</div>
