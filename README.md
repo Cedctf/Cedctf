@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=180&section=header&text=Hi%20there!%20I'm%20Cedric%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00D4FF&center=true&vCenter=true&width=520&lines=Computer+Science+Graduate+%F0%9F%8E%93;Building+cool+things+with+code+%F0%9F%9A%80;Always+learning+%26+shipping+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00D4FF&center=true&vCenter=true&width=520&lines=Computer+Science+Student+%F0%9F%8E%93;Building+cool+things+with+code+%F0%9F%9A%80;Always+learning+%26+shipping+%E2%9C%A8" />
 </p>
 
 <p>
@@ -38,10 +38,10 @@
 
 ## 🏆 Hackathon Achievements
 
-| Hackathon | Achievement | What I Built | Links |
-|---:|---|---|---|
-| **ETHGlobal Agentic Ethereum 2025** | 🥈 2nd in Flow Track | **4AI 1Human** |  [Repo](https://github.com/Cedctf/agentic) |
-| **PayHack2024** | 🥉 3rd Place | **Finpet** |  [Repo](https://github.com/Cedctf/payhack) |
+| Hackathon | Achievement | Project & Description | Links |
+| :--- | :--- | :--- | :--- |
+| **ETHGlobal Agentic Ethereum 2025** | 🥈 2nd in Flow Track | **4AI 1Human** <br> A decentralized social experiment where users distinguish between AI agents and real humans on-chain. | [📂 Repo](https://github.com/Cedctf/agentic) |
+| **PayHack 2024** | 🥉 3rd Place | **Finpet** <br> A gamified personal finance assistant that uses an evolving virtual pet to incentivize healthy saving habits. | [📂 Repo](https://github.com/Cedctf/payhack) |
 
 ---
 
