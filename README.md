@@ -41,7 +41,7 @@
 | Hackathon | Achievement | Project & Description | Links |
 | :--- | :--- | :--- | :--- |
 | **Token2049 Singapore 2025** | 🥇 **1st (Celo), Top 5 Finalist 🏆** | **LeftAI**: A natural-language MiniPay MiniApp for Celo that simplifies crypto transfers, bill splitting, and staking via AI. | [Repo](https://github.com/Cedctf/token2049) |
-| **ETHGlobal New Delhi 2025** | 🥇 **1st (Flow), Hedera (Best Overall Project)** | **Pay Mix**: Cross-chain intent-based payments allowing users to split checkouts across any token/chain via a single signature. | [Repo](https://github.com/Cedctf/ethindia) |
+| **ETHGlobal New Delhi 2025** | 🥇 **1st (Flow), Hedera (Best Overall Project)** | **DhalWay**: Cross-chain intent-based payments allowing users to split checkouts across any token/chain via a single signature. | [Repo](https://github.com/Cedctf/ethindia) |
 | **ETHTokyo 2025** | 🥇 **AI Track Champion, Finalist🏆** | **Toku Kaigan**: Privacy-first AI psychiatrist using TEEs, Swarm Intelligence, and manga-style progress tracking. | [Repo](https://github.com/Cedctf/ethtokyo) |
 | **DevQuest 2025** | 🥇 **Champion** | **Competitive Debugging**: Ranked 1st in a live sprint, resolving critical bugs and implementing features on legacy codebases. | N/A |
 | **IOTA Malaysia 2025** | 🎯 **Top 10** | **Cap Attendance**: On-chain identity (DID) and face-recognition system for tamper-proof academic attendance. | [Repo](https://github.com/Cedctf/iota-hackathon) |
