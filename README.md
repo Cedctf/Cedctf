@@ -30,7 +30,7 @@
 ## 🧰 Tech Stack
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,solidity,hardhat,rust,react,nextjs,nodejs,express,html,css,tailwind,git,github,linux,docker,mysql,postgres,mongodb,vercel&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,solidity,eth,rust,react,nextjs,nodejs,express,html,css,tailwind,git,github,linux,docker,mysql,postgres,mongodb,vercel&perline=11" />
 
 </div>
 
