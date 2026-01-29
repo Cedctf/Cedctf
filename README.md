@@ -40,7 +40,7 @@
 
 | Hackathon | Achievement | Project & Description | Links |
 | :--- | :--- | :--- | :--- |
-| **First Movers Sprint 2026** | 🥇 **1st (DeFi)** | **Six-Seven**: A multi-dimensional prediction market using a Joint-Outcome AMM to unify liquidity across correlated binary events. | [Repo](https://github.com/Cedctf/six-seven) |
+| **First Movers Sprint 2026** | 🥇 **1st (DeFi)** | **Phởcast**: A multi-dimensional prediction market using a Joint-Outcome AMM to unify liquidity across correlated binary events. | [Repo](https://github.com/Cedctf/six-seven) |
 | **Cursor x Anthropic 2025** | 🎯 **Top 15 Finalist** | **EternAI**: A digital legacy platform that uses RAG and fine-tuned LLMs to create interactive, memory-mapped AI avatars of loved ones. | [Repo](https://github.com/Cedctf/eternai) |
 | **Forte Hacks by Flow 2025** | 🥉 **3rd (Existing Code)** | **DhalWay**: A universal cross-chain payment protocol using LayerZero OFTs and EIP-712 for one-signature merchant settlement. | [Repo](https://github.com/Cedctf/dhal-way) |
 | **ETHOnline 2025** | 🥇 **1st (BlockScout)** | **PetPet**: A pet-centric explorer using IoT (ESP32) and TEEs (Phala) to create privacy-safe, verifiable on-chain pet activity logs. | [Repo](https://github.com/Cedctf/pet-pet) |
