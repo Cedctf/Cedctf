@@ -30,7 +30,7 @@
 ## 🧰 Tech Stack
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,solidity,ethereum,rust,react,nextjs,nodejs,express,html,css,tailwind,git,github,linux,docker,mysql,postgres,mongodb,vercel&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,solidity,hardhat,rust,react,nextjs,nodejs,express,html,css,tailwind,git,github,linux,docker,mysql,postgres,mongodb,vercel&perline=11" />
 
 </div>
 
@@ -59,18 +59,15 @@
 ---
 
 ## 📈 GitHub Stats
-
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cedctf&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedctf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cedctf&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cedctf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Cedctf/Cedctf/output/github-contribution-grid-snake.svg)
-
+  <img src="https://raw.githubusercontent.com/Cedctf/Cedctf/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
